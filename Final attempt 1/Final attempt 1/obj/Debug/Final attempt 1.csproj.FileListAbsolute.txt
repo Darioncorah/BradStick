@@ -1,0 +1,39 @@
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe.config
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.pdb
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csprojAssemblyReference.cache
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Form1.resources
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Properties.Resources.resources
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csproj.GenerateResource.cache
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csproj.CoreCompileInputs.cache
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.exe
+C:\Users\Darion\source\repos\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.pdb
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe.config
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.pdb
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csprojAssemblyReference.cache
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Form1.resources
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Properties.Resources.resources
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csproj.GenerateResource.cache
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.exe
+F:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.pdb
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe.config
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.pdb
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csprojAssemblyReference.cache
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Form1.resources
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Properties.Resources.resources
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csproj.GenerateResource.cache
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csproj.CoreCompileInputs.cache
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.exe
+G:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.pdb
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe.config
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.exe
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\bin\Debug\Final attempt 1.pdb
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csprojAssemblyReference.cache
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Form1.resources
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final_attempt_1.Properties.Resources.resources
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csproj.GenerateResource.cache
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.csproj.CoreCompileInputs.cache
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.exe
+D:\HomeWork(Wip)\Final attempt 1\Final attempt 1\obj\Debug\Final attempt 1.pdb
